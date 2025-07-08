@@ -1,43 +1,42 @@
-.login-form {
-  max-width: 400px;
-  margin: 50px auto;
-  background: #f5f5f5;
-  padding: 20px;
-  border-radius: 10px;
-  font-family: sans-serif;
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
 }
 
-.form-group {
-  margin-bottom: 15px;
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
-input {
-  width: 100%;
-  padding: 10px;
-  margin-top: 5px;
-  font-size: 1rem;
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
-.error {
-  color: red;
-  font-size: 0.9rem;
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 15s linear;
+  }
 }
 
-button {
-  padding: 10px;
-  width: 100%;
-  font-size: 1rem;
-  background: green;
-  color: white;
-  border: none;
-  border-radius: 5px;
+.card {
+  padding: 2em;
 }
 
-button:hover {
-  background-color: #246826;
-}
-
-button:disabled {
-  background: #ccc;
-  cursor: not-allowed;
-}
+.read-the-docs {
+  color: #888;
+} */
